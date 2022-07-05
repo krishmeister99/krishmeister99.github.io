@@ -1,3 +1,3 @@
-# krishmeister99.github.io
+# Krishnan Ganesh
 Testing out Github pages site
 
